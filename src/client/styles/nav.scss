@@ -1,0 +1,16 @@
+@import "variables.scss";
+
+
+.nav-logo{
+    max-width: 1400px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    font-size: $nav-text;
+
+    @media screen and( max-width: 1200px) {
+        padding-left: 5%;
+        padding-right: 5%;
+     }
+ }
+         
