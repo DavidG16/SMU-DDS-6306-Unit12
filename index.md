@@ -7,8 +7,8 @@
 ####  Beers and Breweries Study
 [Github](https://github.com/DavidG16/DS-6306-Doing-Data-Science-project1)  
 [R Shinny App](https://dgrijalva.shinyapps.io/BeerStudyApp/)  
-<img src="/assets/works/Screen Shot 2020-11-08 at 6.10.49 PM.png" height=400px width=400px />
-<img src="/assets/works/Screen Shot 2020-11-08 at 6.21.50 PM.png" height=400px width=400px />
+<img src="https://github.com/DavidG16/SMU-DDS-6306-Unit12/blob/main/assets/works/Screen%20Shot%202020-11-08%20at%206.10.49%20PM.png" height=300px width=300px />
+<img src="https://github.com/DavidG16/SMU-DDS-6306-Unit12/blob/main/assets/works/Screen%20Shot%202020-11-08%20at%206.21.50%20PM.png" height=300px width=300px />
 
 
 
