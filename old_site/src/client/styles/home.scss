@@ -1,5 +1,5 @@
 .main-container {
-    padding-top: 5%;
+    padding-top: 20px;
     position: relative;
     max-width: 1140px;
     margin: auto;
@@ -12,19 +12,14 @@
 }
 
 .sub-container {
-    padding-top: 125px;
+    padding-top: 50px;
     margin: auto;
 
     @media screen and( max-width: 1200px) {
         padding-left: 5%;
         padding-right: 5%;
      }
- 
-   
 
-
-
-  
 }
 
 .main-text {
@@ -65,6 +60,7 @@
     border-radius: 15px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
+    margin: 10px;
 }
 
 .work-card-container {
@@ -82,6 +78,7 @@
 
 .work-card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    
   }
 
 .works-item-svg{
@@ -104,4 +101,16 @@
 
     }
     
+}
+
+#knot-code-id {
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+#nav-logo-id {
+    text-decoration: none;
+    color : #000; 
 }

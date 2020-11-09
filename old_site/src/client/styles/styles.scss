@@ -12,4 +12,7 @@ p {
     line-height: 170%;
 }
 
+button > * {
+   pointer-events: none;
+ }
 

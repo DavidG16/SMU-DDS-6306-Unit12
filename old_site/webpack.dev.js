@@ -24,7 +24,11 @@ module.exports = merge(common, {
     plugins: [
         new HtmlWebPackPlugin({
             template: './src/client/views/index.html',
+            inject: true,
+            chunks: ['main'],
             filename: './index.html'
-        })
+            
+
+        }),
     ]
 })
